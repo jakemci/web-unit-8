@@ -1,0 +1,29 @@
+/*Navbar custom layout and font */
+.navbar-custom {
+background-color: rgb(131, 221, 224);
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+
+}
+
+.row{
+Display: flex;
+
+
+}
+
+.column{
+flex:25%;
+padding:5px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
