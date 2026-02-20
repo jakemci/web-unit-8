@@ -1,6 +1,6 @@
 /*Navbar custom layout and font */
 .navbar-custom {
-background-color: rgb(131, 221, 224);
+background-color: rgb(133, 210, 212);
 font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 
 }
@@ -19,6 +19,36 @@ padding:5px;
 }
 
 
+
+
+
+
+/* Footer styling similar to navbar */
+footer {
+  background-color: rgb(163, 44, 44);       /* sky blue background */
+  color: #ffffff;                      /* white text for contrast */
+  font-family: 'sans-serif';     /* playful font */
+  text-align: center;               /* centre content */
+  padding: 1.5rem 1rem;             /* comfortable spacing */
+}
+
+/* Paragraph and small text inside footer */
+footer p {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+footer small {
+  display: block;
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+}
+
+/* Social icons specific spacing (optional) */
+.site-footer .social-links i {
+  margin-left: 5px;
+}
 
 
 
